@@ -1,3 +1,6 @@
+## 📸 Image Preview:
+<img width="1912" height="911" alt="JS-DOM-Basic-Quote-Generator" src="https://github.com/user-attachments/assets/79a23e7b-9339-40ea-94ef-ca3a8d4e049f" />
+
 # 🌟 Random Quote Generator
 
 This is a basic JavaScript project that displays random quotes on a webpage. It’s a beginner-friendly exercise focused on practicing DOM manipulation and building interactive user interfaces.
