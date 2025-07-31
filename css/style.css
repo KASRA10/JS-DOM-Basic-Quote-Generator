@@ -17,16 +17,16 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-  text-align: center;
   background-color: var(--primary-color);
   background-image: url("../assets/images/Page-Wallpaper.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
 }
 * {
   padding: 0;
