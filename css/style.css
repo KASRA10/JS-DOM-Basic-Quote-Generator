@@ -23,5 +23,35 @@ img {
 a {
   text-decoration: none;
 }
-
 /* End Of Reset CSS */
+
+:root {
+  --primary-color: #edf2f4;
+  --secondary-color: #22223b;
+  --box-shadow-color: rgba(0, 0, 0, , 0.4);
+  --default-radius: 15px;
+  --overlay-color: rgba(0, 0, 0, 1);
+}
+
+/* Body */
+body {
+  background-color: var(--primary-color);
+  background-image: url("../assets/images/Page-Wallpaper.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Overlay of Body */
+div.overlay {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  background-color: var(--overlay-color);
+  opacity: 0.2;
+}
+/* End Of Overlay */
+/* End Of Body */
